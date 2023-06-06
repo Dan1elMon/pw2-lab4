@@ -421,3 +421,5 @@ ROCK = [
     "                                                          ",
     "                                                          "
     ]
+def Picture(img):
+    return img

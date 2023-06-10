@@ -1,5 +1,6 @@
 from pieces import *
 from interpreter import draw
+from pieces import Picture
 
 bishop = Picture(BISHOP)
 king = Picture(KING)
@@ -9,5 +10,3 @@ queen = Picture(QUEEN)
 rock = Picture(ROCK)
 square = Picture(SQUARE)
 
-# Ejemplo de uso:
-draw(bishop)
